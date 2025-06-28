@@ -11,7 +11,7 @@ Sou Desenvolvedor Fullstack dedicado a criar soluções eficientes, escaláveis 
 - **Banco de Dados:** MySQL, PostgreSQL, SQL Server  
 - **Containerização:** Docker, Docker Compose  
 - **Controle de versão:** Git, GitHub  
-- **Outros:** Desenvolvimento de APIs RESTful, Autenticação JWT, Integração contínua (CI/CD), Hospedagem e deploy com Render.com
+- **Outros:** Desenvolvimento de APIs RESTful, Autenticação JWT, Integração contínua (CI/CD), Hospedagem e deploy.
 
 ---
 
