@@ -7,7 +7,7 @@ Sou Desenvolvedor Fullstack dedicado a criar soluções eficientes, escaláveis 
 ## 🛠️ Tecnologias & Ferramentas
 
 - **Frontend:** React, TypeScript, Tailwind CSS, SCSS, CSS, Bootstrap, Vite  
-- **Backend:** PHP, Symfony, Laravel  
+- **Backend:** PHP, Symfony, Laravel, TypeScript 
 - **Banco de Dados:** MySQL, PostgreSQL, SQL Server  
 - **Containerização:** Docker, Docker Compose  
 - **Controle de versão:** Git, GitHub  
